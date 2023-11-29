@@ -1,0 +1,80 @@
+[
+  {
+    "comicBook": {
+      "title": "Red Light, Green Light / Hulk Art Class",
+      "issueNumber": "4A",
+      "publicationDate": [
+        2008,
+        6,
+        24
+      ],
+      "creators": [
+        "Jeph Loeb",
+        "Audrey Loeb",
+        "Chris Giarrusso"
+      ],
+      "principleCharacters": [],
+      "description": "Red Hulk Cover",
+      "baseValue": 0.0,
+      "grade": 0,
+      "isSlabbed": false
+    },
+    "publisher": {
+      "children": [],
+      "numIssues": 0,
+      "totalValue": 0.0,
+      "publisherName": "Marvel Comics"
+    },
+    "series": {
+      "children": [],
+      "numIssues": 0,
+      "totalValue": 0.0,
+      "seriesNumber": "Hulk"
+    },
+    "volume": {
+      "children": [],
+      "numIssues": 0,
+      "totalValue": 0.0,
+      "volumeNumber": 1
+    }
+  },
+  {
+    "comicBook": {
+      "title": "Red Light, Green Light / Hulk Art Class",
+      "issueNumber": "4B",
+      "publicationDate": [
+        2008,
+        6,
+        24
+      ],
+      "creators": [
+        "Jeph Loeb",
+        "Audrey Loeb",
+        "Chris Giarrusso"
+      ],
+      "principleCharacters": [],
+      "description": "Ed Mcguinness Variant Cover",
+      "baseValue": 0.0,
+      "grade": 0,
+      "isSlabbed": false
+    },
+    "publisher": {
+      "children": [],
+      "numIssues": 0,
+      "totalValue": 0.0,
+      "publisherName": "Marvel Comics"
+    },
+    "series": {
+      "children": [],
+      "numIssues": 0,
+      "totalValue": 0.0,
+      "seriesNumber": "Hulk"
+    },
+    "volume": {
+      "children": [],
+      "numIssues": 0,
+      "totalValue": 0.0,
+      "volumeNumber": 1
+    }
+  }
+]

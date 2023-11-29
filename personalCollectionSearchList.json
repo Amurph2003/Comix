@@ -1,0 +1,84 @@
+[
+    {
+        "comicBook": {
+            "title": "An updated book",
+            "issueNumber": "1",
+            "publicationDate": [
+                1995,
+                7,
+                1
+            ],
+            "creators": [
+                "Jeffrey Gomez",
+                "Val Mayerik",
+                "James Dean Pascoe"
+            ],
+            "principleCharacters": [
+                "Jeffrey Gomez",
+                "Val Mayerik",
+                "James Dean Pascoe"
+            ],
+            "description": "",
+            "baseValue": 100.0,
+            "grade": 0,
+            "isSlabbed": false
+        },
+        "publisher": {
+            "children": null,
+            "numIssues": 1,
+            "totalValue": 100.0,
+            "publisherName": "Acclaim Comics"
+        },
+        "series": {
+            "children": null,
+            "numIssues": 1,
+            "totalValue": 100.0,
+            "seriesNumber": "Magic: the Gathering - The Shadow Mage"
+        },
+        "volume": {
+            "children": null,
+            "numIssues": 1,
+            "totalValue": 100.0,
+            "volumeNumber": 1
+        }
+    },
+    {
+        "comicBook": {
+            "title": "Count Dracula",
+            "issueNumber": "1",
+            "publicationDate": [
+                1987,
+                11,
+                1
+            ],
+            "creators": [
+                "Ricky Shanklin",
+                "Neil Vokes",
+                "Mark Obie Wheatley"
+            ],
+            "principleCharacters": [],
+            "description": "",
+            "baseValue": 4.7,
+            "grade": 0,
+            "isSlabbed": false
+        },
+        "publisher": {
+            "children": null,
+            "numIssues": 1,
+            "totalValue": 4.7,
+            "publisherName": "Apple Comics"
+        },
+        "series": {
+            "children": null,
+            "numIssues": 1,
+            "totalValue": 4.7,
+            "seriesNumber": "Blood of Dracula"
+        },
+        "volume": {
+            "children": null,
+            "numIssues": 1,
+            "totalValue": 4.7,
+            "volumeNumber": 1
+        }
+    }
+]

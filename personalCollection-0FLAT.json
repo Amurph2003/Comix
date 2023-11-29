@@ -1,0 +1,147 @@
+[
+    {
+        "comicBook": {
+            "newTabCounter": 0,
+            "newTabString": "",
+            "title": "Count Dracula",
+            "issueNumber": "1",
+            "publicationDate": [
+                1987,
+                11,
+                1
+            ],
+            "creators": [
+                "Ricky Shanklin",
+                "Neil Vokes",
+                "Mark Obie Wheatley"
+            ],
+            "principleCharacters": [],
+            "description": "",
+            "baseValue": 4.7,
+            "grade": 0,
+            "isSlabbed": false
+        },
+        "publisher": {
+            "newTabCounter": 0,
+            "newTabString": "",
+            "children": null,
+            "numIssues": 0,
+            "totalValue": 0.0,
+            "publisherName": "Apple Comics"
+        },
+        "series": {
+            "newTabCounter": 0,
+            "newTabString": "",
+            "children": null,
+            "numIssues": 0,
+            "totalValue": 0.0,
+            "seriesNumber": "Blood of Dracula"
+        },
+        "volume": {
+            "newTabCounter": 0,
+            "newTabString": "",
+            "children": null,
+            "numIssues": 0,
+            "totalValue": 0.0,
+            "volumeNumber": 1
+        }
+    },
+    {
+        "comicBook": {
+            "newTabCounter": 0,
+            "newTabString": "",
+            "title": "This book was updated",
+            "issueNumber": "1",
+            "publicationDate": [
+                1995,
+                7,
+                1
+            ],
+            "creators": [
+                "Jeffrey Gomez",
+                "Val Mayerik",
+                "James Dean Pascoe"
+            ],
+            "principleCharacters": [],
+            "description": "",
+            "baseValue": 13.0,
+            "grade": 0,
+            "isSlabbed": false
+        },
+        "publisher": {
+            "newTabCounter": 0,
+            "newTabString": "",
+            "children": null,
+            "numIssues": 0,
+            "totalValue": 0.0,
+            "publisherName": "Acclaim Comics"
+        },
+        "series": {
+            "newTabCounter": 0,
+            "newTabString": "",
+            "children": null,
+            "numIssues": 0,
+            "totalValue": 0.0,
+            "seriesNumber": "New Series"
+        },
+        "volume": {
+            "newTabCounter": 0,
+            "newTabString": "",
+            "children": null,
+            "numIssues": 0,
+            "totalValue": 0.0,
+            "volumeNumber": 1
+        }
+    },
+    {
+        "comicBook": {
+            "newTabCounter": 0,
+            "newTabString": "",
+            "title": "A New Book",
+            "issueNumber": "1",
+            "publicationDate": [
+                2023,
+                4,
+                24
+            ],
+            "creators": [
+                null,
+                null,
+                null
+            ],
+            "principleCharacters": [
+                null,
+                null,
+                null
+            ],
+            "description": "",
+            "baseValue": 0.0,
+            "grade": 0,
+            "isSlabbed": false
+        },
+        "publisher": {
+            "newTabCounter": 0,
+            "newTabString": "",
+            "children": null,
+            "numIssues": 0,
+            "totalValue": 0.0,
+            "publisherName": "Acclaim Comics"
+        },
+        "series": {
+            "newTabCounter": 0,
+            "newTabString": "",
+            "children": null,
+            "numIssues": 0,
+            "totalValue": 0.0,
+            "seriesNumber": "New Series"
+        },
+        "volume": {
+            "newTabCounter": 0,
+            "newTabString": "",
+            "children": null,
+            "numIssues": 0,
+            "totalValue": 0.0,
+            "volumeNumber": 1
+        }
+    }
+]

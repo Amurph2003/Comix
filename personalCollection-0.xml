@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<XMLCreators>
+    <row>
+        <Publisher_Name>Apple Comics</Publisher_Name>
+        <Series_Number>Blood of Dracula</Series_Number>
+        <Volume_Number>1</Volume_Number>
+        <Title>Count Dracula</Title>
+        <Issue_Number>1</Issue_Number>
+        <Publication_Date>1987-11-01</Publication_Date>
+        <Creators>Ricky Shanklin, Neil Vokes, Mark Obie Wheatley</Creators>
+        <Principle_Characters/>
+        <Description/>
+        <Base_Value>4.7</Base_Value>
+        <Grade>0</Grade>
+        <Is_Slabbed>false</Is_Slabbed>
+    </row>
+    <row>
+        <Publisher_Name>Acclaim Comics</Publisher_Name>
+        <Series_Number>New Series</Series_Number>
+        <Volume_Number>1</Volume_Number>
+        <Title>This book was updated</Title>
+        <Issue_Number>1</Issue_Number>
+        <Publication_Date>1995-07-01</Publication_Date>
+        <Creators>Jeffrey Gomez, Val Mayerik, James Dean Pascoe</Creators>
+        <Principle_Characters/>
+        <Description/>
+        <Base_Value>13.0</Base_Value>
+        <Grade>0</Grade>
+        <Is_Slabbed>false</Is_Slabbed>
+    </row>
+    <row>
+        <Publisher_Name>Acclaim Comics</Publisher_Name>
+        <Series_Number>New Series</Series_Number>
+        <Volume_Number>1</Volume_Number>
+        <Title>A New Book</Title>
+        <Issue_Number>1</Issue_Number>
+        <Publication_Date>2023-04-24</Publication_Date>
+        <Creators>null, null, null</Creators>
+        <Principle_Characters>null, null, null</Principle_Characters>
+        <Description/>
+        <Base_Value>0.0</Base_Value>
+        <Grade>0</Grade>
+        <Is_Slabbed>false</Is_Slabbed>
+    </row>
+</XMLCreators>

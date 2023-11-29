@@ -1,0 +1,197 @@
+[{
+    "comicBook": {
+        "id": "0",
+        "title": "The Aster Fall",
+        "issueNumber": "1",
+        "publicationDate": [
+            1995,
+            7,
+            1
+        ],
+        "creators": [
+            "Jeffrey Gomez",
+            "Val Mayerik",
+            "James Dean Pascoe"
+        ],
+        "principleCharacters": [],
+        "description": "",
+        "baseValue": 0,
+        "grade": 0,
+        "isSlabbed": false
+    },
+    "publisher": {
+        "children": [],
+        "numIssues": 0,
+        "totalValue": 0,
+        "publisherName": "Acclaim Comics"
+    },
+    "series": {
+        "children": [],
+        "numIssues": 0,
+        "totalValue": 0,
+        "seriesNumber": "Magic: the Gathering - The Shadow Mage"
+    },
+    "volume": {
+        "children": [],
+        "numIssues": 0,
+        "totalValue": 0,
+        "volumeNumber": 1
+    }
+},
+{
+    "comicBook": {
+        "id": "1",
+        "title": "Count Dracula",
+        "issueNumber": "1",
+        "publicationDate": [
+            1987,
+            11,
+            1
+        ],
+        "creators": [
+            "Ricky Shanklin",
+            "Neil Vokes",
+            "Mark Obie Wheatley"
+        ],
+        "principleCharacters": [],
+        "description": "",
+        "baseValue": 0,
+        "grade": 0,
+        "isSlabbed": false
+    },
+    "publisher": {
+        "children": [],
+        "numIssues": 0,
+        "totalValue": 0,
+        "publisherName": "Apple Comics"
+    },
+    "series": {
+        "children": [],
+        "numIssues": 0,
+        "totalValue": 0,
+        "seriesNumber": "Blood of Dracula"
+    },
+    "volume": {
+        "children": [],
+        "numIssues": 0,
+        "totalValue": 0,
+        "volumeNumber": 1
+    }
+},
+{
+    "comicBook": {
+        "id": "2",
+        "title": "Escape From Riverdale",
+        "issueNumber": "1F",
+        "publicationDate": [
+            2014,
+            5,
+            7
+        ],
+        "creators": [
+            "Roberto Aguirre-Sacasa",
+            "Francesco Francavilla"
+        ],
+        "principleCharacters": [],
+        "description": "2nd Printing",
+        "baseValue": 0,
+        "grade": 0,
+        "isSlabbed": false
+    },
+    "publisher": {
+        "children": [],
+        "numIssues": 0,
+        "totalValue": 0,
+        "publisherName": "Archie Comic Publications"
+    },
+    "series": {
+        "children": [],
+        "numIssues": 0,
+        "totalValue": 0,
+        "seriesNumber": "Afterlife With Archie"
+    },
+    "volume": {
+        "children": [],
+        "numIssues": 0,
+        "totalValue": 0,
+        "volumeNumber": 1
+    }
+},
+{
+    "comicBook": {
+        "id": "3",
+        "title": "Escape From Riverdale, Chapter Two: Dance of the Dead",
+        "issueNumber": "2A",
+        "publicationDate": [
+            2013,
+            11,
+            20
+        ],
+        "creators": [
+            "Gray Morrow",
+            "Roberto Aguirre-Sacasa",
+            "Francesco Francavilla"
+        ],
+        "principleCharacters": [],
+        "description": "Francesco Francavilla Regular Cover",
+        "baseValue": 0,
+        "grade": 0,
+        "isSlabbed": false
+    },
+    "publisher": {
+        "children": [],
+        "numIssues": 0,
+        "totalValue": 0,
+        "publisherName": "Archie Comic Publications"
+    },
+    "series": {
+        "children": [],
+        "numIssues": 0,
+        "totalValue": 0,
+        "seriesNumber": "Afterlife With Archie"
+    },
+    "volume": {
+        "children": [],
+        "numIssues": 0,
+        "totalValue": 0,
+        "volumeNumber": 1
+    }
+},{
+		"comicBook": {
+			"id": "14299",
+			"title": "",
+			"issueNumber": "106A",
+			"publicationDate": [
+				1,
+				1,
+				1
+			],
+			"creators": [
+				""
+			],
+			"principleCharacters": [],
+			"description": "",
+			"baseValue": 0,
+			"grade": 0,
+			"isSlabbed": false
+		},
+		"publisher": {
+			"children": [],
+			"numIssues": 0,
+			"totalValue": 0,
+			"publisherName": ""
+		},
+		"series": {
+			"children": [],
+			"numIssues": 0,
+			"totalValue": 0,
+			"seriesNumber": "Marauders, Vol. 1"
+		},
+		"volume": {
+			"children": [],
+			"numIssues": 0,
+			"totalValue": 0,
+			"volumeNumber": 1
+		}
+	}
+]

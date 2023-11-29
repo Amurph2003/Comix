@@ -1,0 +1,104 @@
+{
+    "newTabCounter": 0,
+    "newTabString": "",
+    "children": [
+        {
+            "newTabCounter": 0,
+            "newTabString": "",
+            "children": [
+                {
+                    "newTabCounter": 0,
+                    "newTabString": "",
+                    "children": [
+                        {
+                            "newTabCounter": 0,
+                            "newTabString": "",
+                            "children": [
+                                {
+                                    "newTabCounter": 0,
+                                    "newTabString": "",
+                                    "title": "Count Dracula",
+                                    "issueNumber": "1",
+                                    "publicationDate": [
+                                        1987,
+                                        11,
+                                        1
+                                    ],
+                                    "creators": [
+                                        "Ricky Shanklin",
+                                        "Neil Vokes",
+                                        "Mark Obie Wheatley"
+                                    ],
+                                    "principleCharacters": [],
+                                    "description": "",
+                                    "baseValue": 4.7,
+                                    "grade": 0,
+                                    "isSlabbed": false
+                                }
+                            ],
+                            "numIssues": 1,
+                            "totalValue": 4.7,
+                            "volumeNumber": 1
+                        }
+                    ],
+                    "numIssues": 1,
+                    "totalValue": 4.7,
+                    "seriesNumber": "Blood of Dracula"
+                }
+            ],
+            "numIssues": 1,
+            "totalValue": 4.7,
+            "publisherName": "Apple Comics"
+        },
+        {
+            "newTabCounter": 0,
+            "newTabString": "",
+            "children": [
+                {
+                    "newTabCounter": 0,
+                    "newTabString": "",
+                    "children": [
+                        {
+                            "newTabCounter": 0,
+                            "newTabString": "",
+                            "children": [
+                                {
+                                    "newTabCounter": 0,
+                                    "newTabString": "",
+                                    "title": "This book was updated",
+                                    "issueNumber": "1",
+                                    "publicationDate": [
+                                        1995,
+                                        7,
+                                        1
+                                    ],
+                                    "creators": [
+                                        "Jeffrey Gomez",
+                                        "Val Mayerik",
+                                        "James Dean Pascoe"
+                                    ],
+                                    "principleCharacters": [],
+                                    "description": "",
+                                    "baseValue": 13.0,
+                                    "grade": 0,
+                                    "isSlabbed": false
+                                }
+                            ],
+                            "numIssues": 1,
+                            "totalValue": 13.0,
+                            "volumeNumber": 1
+                        }
+                    ],
+                    "numIssues": 1,
+                    "totalValue": 13.0,
+                    "seriesNumber": "New Series"
+                }
+            ],
+            "numIssues": 1,
+            "totalValue": 13.0,
+            "publisherName": "Acclaim Comics"
+        }
+    ],
+    "numIssues": 2,
+    "totalValue": 17.7
+}
